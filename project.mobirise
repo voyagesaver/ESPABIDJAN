@@ -70,17 +70,17 @@
       "currency": "USD"
     },
     "chatbutton": {
-      "phone": "+12345678901",
+      "phone": "+2252122018548",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
       "position": "left",
-      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
+      "popupMessage": "Salut, \n\nComment pouvons-nous vous aidez aujourd'hui?",
       "showPopup": true,
       "showOnIE": true,
-      "autoOpenTimeout": 5,
+      "autoOpenTimeout": "5",
       "headerColor": "#39847a",
-      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "headerTitle": "👋 Chattez avec nous sur WhatsApp!",
       "placeholder": "Type here",
       "zIndex": 10,
       "enabled": true
