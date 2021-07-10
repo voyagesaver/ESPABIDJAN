@@ -2815,7 +2815,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-skXXwoGVML {
-  padding-top: 210px;
+  padding-top: 135px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
@@ -2856,6 +2856,24 @@ section.lazy-placeholder:after {
   .cid-skXXwoGVML * {
     text-align: center;
   }
+}
+.cid-sCNAzEpMd6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/pexels-vlada-karpovich-4939667-2000x3000.jpeg");
+}
+.cid-sCNAzEpMd6 .mbr-section-title {
+  letter-spacing: .1em;
+}
+.cid-sCNAzEpMd6 .mbr-text {
+  letter-spacing: 0.03rem;
+}
+.cid-sCNAzEpMd6 .card-img span {
+  font-size: 100px;
+}
+.cid-sCNAzEpMd6 .mbr-text,
+.cid-sCNAzEpMd6 .mbr-section-btn {
+  color: #efefef;
 }
 #custom-html-41 {
   /* Type valid CSS here */
